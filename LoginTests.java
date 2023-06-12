@@ -13,3 +13,10 @@ public void loginTest(){
     dve
     tri
 }
+
+@Test 
+public void moreTests(){
+    111
+    222
+    333
+}
