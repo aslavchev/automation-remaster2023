@@ -20,4 +20,7 @@ public void moreTests(){
     222
     333
     4444
+    pravq nqkakva promqna
 }
+
+
