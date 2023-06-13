@@ -12,6 +12,7 @@ public void loginTest(){
     edno 
     dve
     tri
+    aslavchev android
 }
 
 @Test 
@@ -24,3 +25,12 @@ public void moreTests(){
 }
 
 
+=======
+}
+
+@Test
+public void testFromAnotherUser() {
+    444
+    555
+    666
+}
