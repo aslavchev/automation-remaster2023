@@ -19,4 +19,5 @@ public void moreTests(){
     111
     222
     333
+    4444
 }
