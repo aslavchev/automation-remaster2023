@@ -1,4 +1,4 @@
 aaaassda
 sadasgfdfg
 ht
-jyukykyuk
+Dobre, opravqm si byga
